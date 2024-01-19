@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "password": "adminPassword",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "Quasar",
+      "password": "QuasarPassword",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "Ayaki",
+      "password": "AyakiPassword",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "username": "Yardix",
+      "password": "YardixPassword",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "username": "Yanehz",
+      "password": "YanehzPassword",
+      "role": "user"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1705493821056",
+      "category": "Вёрстка",
+      "title": "элементы, классы, ID",
+      "answeredBy": "Quasar",
+      "level": 0
+    },
+    {
+      "id": "1705493821555",
+      "category": "Вёрстка",
+      "title": "принцип работы CSS",
+      "answeredBy": "Quasar",
+      "level": 0
+    },
+    {
+      "id": "1705493822022",
+      "category": "Вёрстка",
+      "title": "приоритет применения свойств (селектор, порядок правил свойств, правила атрибут, !important)",
+      "answeredBy": "Quasar",
+      "level": 0
+    },
+    {
+      "id": "1705493822856",
+      "category": "Вёрстка",
+      "title": "элементы разметки текста",
+      "answeredBy": "Quasar",
+      "level": 0
+    },
+    {
+      "id": "1705493823391",
+      "category": "Вёрстка",
+      "title": "базовые элементы",
+      "answeredBy": "Quasar",
+      "level": 0
+    },
+    {
+      "id": "1705493823757",
+      "category": "Вёрстка",
+      "title": "теги, атрибуты, значения",
+      "answeredBy": "Quasar",
+      "level": 0
+    },
+    {
+      "id": "1705493825040",
+      "category": "Вёрстка",
+      "title": "вложенные стили",
+      "answeredBy": "Quasar",
+      "level": 2
+    },
+    {
+      "id": "1705493825808",
+      "category": "Вёрстка",
+      "title": "SCSS-модули",
+      "answeredBy": "Quasar",
+      "level": 2
+    },
+    {
+      "id": "1705493826792",
+      "category": "Вёрстка",
+      "title": "операции со строками",
+      "answeredBy": "Quasar",
+      "level": 3
+    },
+    {
+      "id": "1705493827405",
+      "category": "Вёрстка",
+      "title": "заливка и обводка",
+      "answeredBy": "Quasar",
+      "level": 3
+    },
+    {
+      "id": "1705493827839",
+      "category": "Вёрстка",
+      "title": "логические операции",
+      "answeredBy": "Quasar",
+      "level": 3
+    },
+    {
+      "id": "1705493828755",
+      "category": "Вёрстка",
+      "title": "z-index, контекст наложения, изоляция",
+      "answeredBy": "Quasar",
+      "level": 4
+    },
+    {
+      "id": "1705493829106",
+      "category": "Вёрстка",
+      "title": "пользовательские функции",
+      "answeredBy": "Quasar",
+      "level": 4
+    },
+    {
+      "id": "1705493837906",
+      "category": "Вёрстка",
+      "title": "кастомные свойства (CSS-переменные)",
+      "answeredBy": "Quasar",
+      "level": 1
+    },
+    {
+      "id": "1705493838405",
+      "category": "Вёрстка",
+      "title": "блочная модель: размеры, обводка, внешние и внутренние отступы, box-sizing",
+      "answeredBy": "Quasar",
+      "level": 0
+    },
+    {
+      "id": "1705493921855",
+      "category": "Вёрстка",
+      "title": "DOCTYPE",
+      "answeredBy": "Yardix",
+      "level": 1
+    },
+    {
+      "id": "1705497494135",
+      "category": "Вёрстка",
+      "title": "DOCTYPE",
+      "answeredBy": "Quasar",
+      "level": 1
+    }
+  ],
+  "answers": [
+    {
+      "userId": 1,
+      "questionId": 1
+    }
+  ]
+}
